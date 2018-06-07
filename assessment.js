@@ -37,7 +37,8 @@
     '{userName}の運勢は小吉です{userName}のラッキーアイテムは烏賊です',
     '{userName}の運勢は吉です{userName}のラッキーアイテムはメロンです',
     '{userName}の運勢は凶です{userName}のラッキーアイテムは本です',
-    '{userName}の運勢は大凶です{userName}のラッキーアイテムはリンゴです'
+    '{userName}の運勢は大凶です{userName}のラッキーアイテムはリンゴです',
+    '｛userName｝にやさしさがにじみでてる'
 ];
 /**
  * 名前の文字列を渡すと診断結果を返す関数
